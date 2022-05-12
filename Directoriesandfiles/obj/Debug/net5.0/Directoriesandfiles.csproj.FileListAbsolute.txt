@@ -1,0 +1,16 @@
+C:\Users\veron\source\repos\Directoriesandfiles\Directoriesandfiles\bin\Debug\net5.0\Directoriesandfiles.exe
+C:\Users\veron\source\repos\Directoriesandfiles\Directoriesandfiles\bin\Debug\net5.0\Directoriesandfiles.deps.json
+C:\Users\veron\source\repos\Directoriesandfiles\Directoriesandfiles\bin\Debug\net5.0\Directoriesandfiles.runtimeconfig.json
+C:\Users\veron\source\repos\Directoriesandfiles\Directoriesandfiles\bin\Debug\net5.0\Directoriesandfiles.runtimeconfig.dev.json
+C:\Users\veron\source\repos\Directoriesandfiles\Directoriesandfiles\bin\Debug\net5.0\Directoriesandfiles.dll
+C:\Users\veron\source\repos\Directoriesandfiles\Directoriesandfiles\bin\Debug\net5.0\ref\Directoriesandfiles.dll
+C:\Users\veron\source\repos\Directoriesandfiles\Directoriesandfiles\bin\Debug\net5.0\Directoriesandfiles.pdb
+C:\Users\veron\source\repos\Directoriesandfiles\Directoriesandfiles\obj\Debug\net5.0\Directoriesandfiles.csproj.AssemblyReference.cache
+C:\Users\veron\source\repos\Directoriesandfiles\Directoriesandfiles\obj\Debug\net5.0\Directoriesandfiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\source\repos\Directoriesandfiles\Directoriesandfiles\obj\Debug\net5.0\Directoriesandfiles.AssemblyInfoInputs.cache
+C:\Users\veron\source\repos\Directoriesandfiles\Directoriesandfiles\obj\Debug\net5.0\Directoriesandfiles.AssemblyInfo.cs
+C:\Users\veron\source\repos\Directoriesandfiles\Directoriesandfiles\obj\Debug\net5.0\Directoriesandfiles.csproj.CoreCompileInputs.cache
+C:\Users\veron\source\repos\Directoriesandfiles\Directoriesandfiles\obj\Debug\net5.0\Directoriesandfiles.dll
+C:\Users\veron\source\repos\Directoriesandfiles\Directoriesandfiles\obj\Debug\net5.0\ref\Directoriesandfiles.dll
+C:\Users\veron\source\repos\Directoriesandfiles\Directoriesandfiles\obj\Debug\net5.0\Directoriesandfiles.pdb
+C:\Users\veron\source\repos\Directoriesandfiles\Directoriesandfiles\obj\Debug\net5.0\Directoriesandfiles.genruntimeconfig.cache

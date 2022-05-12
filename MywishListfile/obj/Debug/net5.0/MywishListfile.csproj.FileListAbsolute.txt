@@ -1,0 +1,16 @@
+C:\Users\veron\source\repos\Directoriesandfiles\MywishListfile\bin\Debug\net5.0\MywishListfile.exe
+C:\Users\veron\source\repos\Directoriesandfiles\MywishListfile\bin\Debug\net5.0\MywishListfile.deps.json
+C:\Users\veron\source\repos\Directoriesandfiles\MywishListfile\bin\Debug\net5.0\MywishListfile.runtimeconfig.json
+C:\Users\veron\source\repos\Directoriesandfiles\MywishListfile\bin\Debug\net5.0\MywishListfile.runtimeconfig.dev.json
+C:\Users\veron\source\repos\Directoriesandfiles\MywishListfile\bin\Debug\net5.0\MywishListfile.dll
+C:\Users\veron\source\repos\Directoriesandfiles\MywishListfile\bin\Debug\net5.0\ref\MywishListfile.dll
+C:\Users\veron\source\repos\Directoriesandfiles\MywishListfile\bin\Debug\net5.0\MywishListfile.pdb
+C:\Users\veron\source\repos\Directoriesandfiles\MywishListfile\obj\Debug\net5.0\MywishListfile.csproj.AssemblyReference.cache
+C:\Users\veron\source\repos\Directoriesandfiles\MywishListfile\obj\Debug\net5.0\MywishListfile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\veron\source\repos\Directoriesandfiles\MywishListfile\obj\Debug\net5.0\MywishListfile.AssemblyInfoInputs.cache
+C:\Users\veron\source\repos\Directoriesandfiles\MywishListfile\obj\Debug\net5.0\MywishListfile.AssemblyInfo.cs
+C:\Users\veron\source\repos\Directoriesandfiles\MywishListfile\obj\Debug\net5.0\MywishListfile.csproj.CoreCompileInputs.cache
+C:\Users\veron\source\repos\Directoriesandfiles\MywishListfile\obj\Debug\net5.0\MywishListfile.dll
+C:\Users\veron\source\repos\Directoriesandfiles\MywishListfile\obj\Debug\net5.0\ref\MywishListfile.dll
+C:\Users\veron\source\repos\Directoriesandfiles\MywishListfile\obj\Debug\net5.0\MywishListfile.pdb
+C:\Users\veron\source\repos\Directoriesandfiles\MywishListfile\obj\Debug\net5.0\MywishListfile.genruntimeconfig.cache
